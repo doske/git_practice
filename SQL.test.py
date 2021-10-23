@@ -48,9 +48,9 @@ cursor = connection.cursor()
 
 #connection.commit()
 
-#dbs1 = cursor.fetchall()
+dbs1 = cursor.fetchall()
 
-#print(dbs1)
+print(dbs1)
 
 # -----------------------------------------
 
